@@ -19,7 +19,7 @@ The following design patterns are included in this repository:
 
 ### Creational Patterns
 - [**Builder**](./Builder/README.md): Allows constructing complex objects step by step.
-- 
+
 ### Structural Patterns
 
 ### Behavioral Patterns
@@ -29,11 +29,12 @@ The following design patterns are included in this repository:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/csharp-design-patterns.git
+   ```
 Navigate to the folder of the pattern you want to explore. For example, to view the Singleton pattern:
 
-```bash
-  cd Builder
-```
+   ```bash
+     cd Builder
+   ```
 Open the README.md file in that pattern's folder for a detailed explanation of the implementation, use cases, and code examples. You can also run the code in your preferred C# development environment, such as Visual Studio or Visual Studio Code.
 
 ## Contributing
@@ -45,3 +46,10 @@ Fork this repository.
 3. Commit your changes with a clear description.
 4. Push your changes to your forked repository.
 5. Open a pull request to merge your changes into the main repository.
+
+## Additional Resources
+
+* [Refactoring Guru](https://refactoring.guru/es/design-patterns/catalog)
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans?tab=readme-ov-file)
+* [Patterns.dev](https://www.patterns.dev/)
+* [Design Patterns TypeScript](https://github.com/torokmark/design_patterns_in_typescript?tab=readme-ov-file)
