@@ -30,12 +30,11 @@ The following design patterns are included in this repository:
    ```bash
    git clone https://github.com/yourusername/csharp-design-patterns.git
    ```
-Navigate to the folder of the pattern you want to explore. For example, to view the Singleton pattern:
-
+2. Navigate to the folder of the pattern you want to explore. For example, to view the Singleton pattern:
    ```bash
      cd Builder
    ```
-Open the README.md file in that pattern's folder for a detailed explanation of the implementation, use cases, and code examples. You can also run the code in your preferred C# development environment, such as Visual Studio or Visual Studio Code.
+3. Open the README.md file in that pattern's folder for a detailed explanation of the implementation, use cases, and code examples. You can also run the code in your preferred C# development environment, such as Visual Studio or Visual Studio Code.
 
 ## Contributing
 If you would like to contribute to this repository, please follow these steps:
